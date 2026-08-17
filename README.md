@@ -1,18 +1,18 @@
-Nesta atividade, você irá colocar em prática os conhecimentos aprendidos sobre , desenvolvendo uma página web sobre um filme de sua escolha.
+Nesta atividade, você irá colocar em prática os conhecimentos aprendidos, desenvolvendo uma página web sobre um filme de sua escolha.
 
 🎯 Objetivo
 Criar uma página HTML utilizando corretamente as principais tags estudadas em aula, organizando informações, imagens, textos e links de forma estruturada.
 
 💻 Requisitos da atividade
 Sua página deverá conter obrigatoriamente: utilizar a tag <title></title>. utilizar a tag <h1>
-adicionar uma imagem relacionada ao filme escolhido. utilizar a tag <h2> para apresentar:
+Adicionar uma imagem relacionada ao filme escolhido. utilizar a tag <h2> para apresentar:
 Ano de produção;
 Diretor;
 Duração;
 Classificação;
 Gênero;
 País de origem.
-utilizar a tag <p> para apresentar a sinopse do filme. adicionar um link para uma página com mais informações sobre o filme, utilizando a tag <a>.🎥 Escolha do filme
+Utilizar a tag <p> para apresentar a sinopse do filme. Adicionar um link para uma página com mais informações sobre o filme, utilizando a tag <a>.🎥 Escolha do filme
 Escolha e pesquise as informações necessárias para desenvolver sua página.
 💡 não é necessário utilizar o filme apresentado como exemplo em aula. A proposta é que cada aluno desenvolva sua própria página.
 📁 Organização do projeto
@@ -42,11 +42,11 @@ Crie um no GitHub;
 Adicione todos os arquivos do projeto;
 Certifique-se de que o arquivo README.md esteja preenchido;
 Verifique se o index.html e as imagens estão funcionando corretamente;
-Copie o link do repositório ;
-Cole o link na atividade do Google Sala de Aula ;
+Copie o link do repositório.;
+Cole o link na atividade da Google Sala de Aula;
 Envie a atividade.
 
-🚀 capriche na organização do código e na apresentação da sua página. Esta atividade será o primeiro passo para construir projetos web cada vez mais completos!
+🚀 Caprichena organização do código e na apresentação da sua página. Esta atividade será o primeiro passo para construir projetos web cada vez mais completos!
 
 Professores
 🥁🧙🏽‍♂️
