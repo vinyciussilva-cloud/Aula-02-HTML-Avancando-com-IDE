@@ -9,7 +9,7 @@
     <h1>Homem-Aranha no Aranhaverso</h1>
     <img src="img/POSTER DO FILME - HOMEM ARANHA.jpg" alt="Descrição clara da imagem">
 <h1>Ano de produção: 2018</h1>
-<h1>Dirigido por:Bob Persichetti, Peter Ramsey e Rodney Rothman</h1>
+<h1>Dirigido por: Bob Persichetti, Peter Ramsey e Rodney Rothman</h1>
 <h1>Duração: 117 minutos (1h 57min)</h1>
 <h1>Classificação: PG (Livre / 10 anos em algumas regiões)</h1>
 <h1>Gênero: Animação, Ação, Aventura</h1>
