@@ -4,7 +4,8 @@ Nesta atividade, você irá colocar em prática os conhecimentos aprendidos sobr
 Criar uma página HTML utilizando corretamente as principais tags estudadas em aula, organizando informações, imagens, textos e links de forma estruturada.
 
 💻 Requisitos da atividade
-Sua página deverá conter obrigatoriamente: utilizar a tag <title></title>. utilizar a tag <h1>. adicionar uma imagem relacionada ao filme escolhido. utilizar a tag <h2> para apresentar:
+Sua página deverá conter obrigatoriamente: utilizar a tag <title></title>. utilizar a tag <h1>
+adicionar uma imagem relacionada ao filme escolhido. utilizar a tag <h2> para apresentar:
 Ano de produção;
 Diretor;
 Duração;
@@ -18,14 +19,13 @@ Escolha e pesquise as informações necessárias para desenvolver sua página.
 
 O repositório deverá conter, no mínimo:
 
-📁 projeto-filme
-                              │ 
-                              ├── 📄 index.html 
-                              ├── 📁 img
-                                                      │ 
-                                                     └── 🖼️ imagem-do-filme
-                              │ 
-                              └── 📄 README.md 
+📁 projeto-filme <h1>
+                              ├── 📄 index.html <h1>
+                              ├── 📁 img <h1>
+                              │ <h1>
+                              └── 🖼️ imagem-do-filme<h1>
+                              │ <h1>
+                              └── 📄 README.md <h1/>
 
 O arquivo README.md deverá apresentar uma breve descrição do projeto, contendo:
 🎬 Nome do filme escolhido;
