@@ -1,62 +1,52 @@
-# 🌐 Aula 02 — HTML, Avançando com IDE
+Nesta atividade, você irá colocar em prática os conhecimentos aprendidos sobre , desenvolvendo uma página web sobre um filme de sua escolha.
 
-Repositório da atividade prática de HTML, com foco na utilização de uma IDE para o desenvolvimento de páginas web.
+🎯 Objetivo
+Criar uma página HTML utilizando corretamente as principais tags estudadas em aula, organizando informações, imagens, textos e links de forma estruturada.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/status-conclu%C3%ADdo-2ea44f?style=for-the-badge" alt="Status: concluído"/>
-</p>
+💻 Requisitos da atividade
+Sua página deverá conter obrigatoriamente: utilizar a tag <title></title>. utilizar a tag <h1>. adicionar uma imagem relacionada ao filme escolhido. utilizar a tag <h2> para apresentar:
+Ano de produção;
+Diretor;
+Duração;
+Classificação;
+Gênero;
+País de origem.
+utilizar a tag <p> para apresentar a sinopse do filme. adicionar um link para uma página com mais informações sobre o filme, utilizando a tag <a>.🎥 Escolha do filme
+Escolha e pesquise as informações necessárias para desenvolver sua página.
+💡 não é necessário utilizar o filme apresentado como exemplo em aula. A proposta é que cada aluno desenvolva sua própria página.
+📁 Organização do projeto
 
-## 📋 Informações gerais
+O repositório deverá conter, no mínimo:
 
-| Campo | Detalhe |
-|---|---|
-| **Aluno** | Vinycius Lopes Monteiro da Silva |
-| **Turma** | 1I-IDS |
-| **Data** | 11/08/2026 |
+📁 projeto-filme
+                              │ 
+                              ├── 📄 index.html 
+                              ├── 📁 img
+                                                      │ 
+                                                     └── 🖼️ imagem-do-filme
+                              │ 
+                              └── 📄 README.md 
 
-## 📖 Sobre a atividade
+O arquivo README.md deverá apresentar uma breve descrição do projeto, contendo:
+🎬 Nome do filme escolhido;
+👨‍💻 Nome do aluno;
+📚 Curso/turma;
+🎯 Objetivo do projeto;
+🛠️ Tecnologias utilizadas;
+📌 Breve descrição da página desenvolvida.
+📤 Entrega no Google Sala de Aula
 
-Nesta aula, vamos conhecer e utilizar o **VS Code (Visual Studio Code)** como ferramenta para desenvolvimento de páginas web.
 
-Durante a aula, serão abordados:
+A entrega da atividade será realizada por meio do .Passo a passo:
+Crie um no GitHub;
+Adicione todos os arquivos do projeto;
+Certifique-se de que o arquivo README.md esteja preenchido;
+Verifique se o index.html e as imagens estão funcionando corretamente;
+Copie o link do repositório ;
+Cole o link na atividade do Google Sala de Aula ;
+Envie a atividade.
 
-- 💻 Instalação e configuração básica do **VS Code**
-- 🧠 Conhecimento do **IntelliSense**, recurso que auxilia na escrita e complementação do código
-- 🌐 Criação da estrutura básica de uma página **HTML**
-- 🏷️ Utilização das principais tags HTML, como:
-  - 🔤 Configuração do idioma da página com `lang="pt-br"`
-  - 🔠 Utilização do `charset="UTF-8"` para correta exibição dos caracteres
-  - 📱 Configuração da página para diferentes dispositivos utilizando a tag `viewport`
-  - 🖼️ Inserção de imagens em uma página HTML
-  - 🔗 Criação de links e utilização dos atributos `target="_blank"` e `target="_self"`
+🚀 capriche na organização do código e na apresentação da sua página. Esta atividade será o primeiro passo para construir projetos web cada vez mais completos!
 
-## 🎯 Objetivo da aula
-
-Ao final da aula, o aluno deverá ser capaz de **instalar e configurar o VS Code**, compreender a estrutura de um documento HTML e utilizar títulos, parágrafos, imagens e links para construir sua primeira página web.
-
-## 🛠️ Tecnologias utilizadas
-
-- **HTML5** — estruturação da página
-- **VS Code** — ambiente de desenvolvimento (IDE)
-
-## 📂 Estrutura do projeto
-
-```
-├── index.html      # Página principal desenvolvida na aula
-└── README.md       # Documentação do projeto
-```
-
-## ▶️ Como visualizar
-
-1. Faça o download ou clone este repositório.
-2. Abra o arquivo `index.html` no navegador de sua preferência.
-
-## 👨‍🏫 Professores
-
-🥁 · 🧙🏽‍♂️
-
----
-
-<p align="center">✨ Atividade desenvolvida com foco em HTML e boas práticas de desenvolvimento web.</p>
+Professores
+🥁🧙🏽‍♂️
